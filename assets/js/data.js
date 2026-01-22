@@ -98,6 +98,12 @@ const projects = [
     href: 'https://github.com/JacobHsu/twstock_chrome_extensions/',
     img: './assets/images/project-10.png',
     category: 'extensions'
+  },
+  {
+    title: 'AI Tools',
+    href: 'https://ai-tools-bookmark.vercel.app/',
+    img: './assets/images/project-11.png',
+    category: 'web development'
   }
 ];
 
