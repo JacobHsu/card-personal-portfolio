@@ -70,8 +70,8 @@ const projects = [
     category: 'web development'
   },
   {
-    title: 'Altfins Widgets',
-    href: 'https://jacobhsu.github.io/altfins-widgets/',
+    title: 'NBA Map',
+    href: 'https://jacobhsu.github.io/team_map/NBA',
     img: './assets/images/project-6.png',
     category: 'web development'
   },
@@ -104,7 +104,13 @@ const projects = [
     href: 'https://ai-tools-bookmark.vercel.app/',
     img: './assets/images/project-11.png',
     category: 'web development'
-  }
+  },
+  {
+    title: 'Altfins Widgets',
+    href: 'https://jacobhsu.github.io/altfins-widgets/',
+    img: './assets/images/project-12.png',
+    category: 'web development'
+  },
 ];
 
 // ===================
