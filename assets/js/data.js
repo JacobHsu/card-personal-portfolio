@@ -100,8 +100,8 @@ const projects = [
     category: 'extensions'
   },
   {
-    title: 'AI Tools',
-    href: 'https://ai-tools-bookmark.vercel.app/',
+    title: 'NewsNow',
+    href: 'https://news-now-hottest.vercel.app',
     img: './assets/images/project-11.png',
     category: 'web development'
   },
@@ -128,6 +128,13 @@ const logs = [
     img: './assets/images/log-1.png',
     category: 'Apps',
     text: 'Onelink is an experimental link-in-bio tool.'
+  },
+  {
+    title: 'AI Tools',
+    href: 'https://ai-tools-bookmark.vercel.app/',
+    img: './assets/images/log-3.png',
+    category: 'AI',
+    text: 'Personalized AI Tools Bookmarking.'
   },
   {
     title: 'Movies TMDB',
