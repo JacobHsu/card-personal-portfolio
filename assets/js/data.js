@@ -111,6 +111,12 @@ const projects = [
     img: './assets/images/project-12.png',
     category: 'web development'
   },
+  {
+    title: 'TradingView Screener',
+    href: 'https://github.com/JacobHsu/py-tvscreener/',
+    img: './assets/images/project-13.png',
+    category: 'telegram'
+  },
 ];
 
 // ===================
