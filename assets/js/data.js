@@ -117,6 +117,18 @@ const projects = [
     img: './assets/images/project-13.png',
     category: 'telegram'
   },
+  {
+    title: 'Feature Flag A/B Test',
+    href: 'https://shirt-shop-nextjs.vercel.app/',
+    img: './assets/images/project-14.png',
+    category: 'ec'
+  },
+    {
+    title: 'PyMC-Marketing',
+    href: 'https://pymc-marketing-mmm.streamlit.app/',
+    img: './assets/images/project-15.png',
+    category: 'ec'
+  },
 ];
 
 // ===================
